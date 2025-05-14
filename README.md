@@ -6,10 +6,10 @@ Welcome to my profile! Here’s a little about me:
 - 🌱 I’m currently learning **Data Science**
 - 👯 I’m looking to collaborate on whatever project you think i can do!
 
-## 🛠️ Technologies & Tools
-- **Languages**: python, c++, matlab
-- **Frameworks**: tensorflow, scikitlearn
-- **Tools**: numpy, pandas, matpllotlib
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixmed&layout=compact&theme=radical)
+
 
 ## 📈 GitHub Stats
 ![lixmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lixmed&show_icons=true&theme=radical)
