@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm lixmed
+# Hi there! 👋 I'm Ahmed
 
 Welcome to my profile! Here’s a little about me:
 
@@ -10,6 +10,7 @@ Welcome to my profile! Here’s a little about me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixmed&layout=compact&theme=radical)
 
+![snake gif](https://github.com/lixmed/lixmed/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 GitHub Stats
 ![lixmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lixmed&show_icons=true&theme=radical)
