@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Ahmed
+# Hi there! I'm Ahmed
 
-Welcome to my profile! Here’s a little about me:
+Welcome to my profile!
 
 ##  About Me
 - I’m currently learning **Data Science**
