@@ -1,4 +1,4 @@
-a<h1 align="center">Ahmed Mohamed Abdelrahman</h1>
+<h1 align="center">Ahmed Mohamed Abdelrahman</h1>
 <p align="center">
   <b>AI Engineer</b> | Building production-ready AI & ML applications
 </p>
