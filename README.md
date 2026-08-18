@@ -35,30 +35,6 @@ a<h1 align="center">Ahmed Mohamed Abdelrahman</h1>
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lixmed&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=333&icon_color=000" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lixmed&theme=transparent&hide_border=true&ring=000&fire=000&currStreakLabel=000" alt="Streak Stats" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixmed&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" alt="Top Languages" width="40%"/>
-
-</div>
-
----
-
-### Projects
-
-| Project | Description |
-|---------|-------------|
-| **[AI Advisor](https://github.com/lixmed/AIAdvisor)** | AI financial conversational agent using RAG pipeline with PostgreSQL/pgvector, ML stock forecasting, and a custom web scraper for real-time data |
-| **[UniMate](https://github.com/lixmed/unimate-api)** | AI-powered student matching platform using XGBoost (97.29% accuracy) with a FastAPI backend deployed on Hugging Face |
-| **[Visa Assistant](https://github.com/lixmed/VisaAsistant)** | Bilingual agentic AI visa application agent with a five-tool agent loop, web scraper with pgvector storage, and SSE streaming |
-
----
 
 ### Experience
 
