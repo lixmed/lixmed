@@ -44,4 +44,3 @@
 
 ---
 
-<p align="center"><i>"Building AI systems that solve real problems."</i></p>
