@@ -54,4 +54,4 @@
 
 ---
 
-<p align="center">naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah</p>
+<p>I have approximately 400 unfinished ideas and I'm proud of at least 12 of them.</p>
