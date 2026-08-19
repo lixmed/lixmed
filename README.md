@@ -14,6 +14,7 @@
 - AI Engineer and Computer Science graduate from Fayoum University (2022--2026)
 - Skilled in **Python**, **SQL**, **FastAPI**, **LLMs**, **RAG**, and **Agentic AI**
 - Experience deploying scalable solutions across cloud and enterprise environments
+  [ahmedmohamed.1abdulrahman@gmail.com](mailto:ahmedmohamed.1abdulrahman@gmail.com)
 
 ---
 
