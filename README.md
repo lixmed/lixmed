@@ -1,6 +1,6 @@
 <h1 align="center">Ahmed Mohamed Abdelrahman</h1>
 <p align="center">
-  <b>AI Engineer</b> | Building production-ready AI & ML applications
+  <b>AI Engineer</b> | 3amel feeha bafham fel AI
 </p>
 
 <p align="center">
@@ -41,9 +41,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lixmed&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=333&icon_color=000" alt="GitHub Stats" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lixmed&theme=transparent&hide_border=true&ring=000&fire=000&currStreakLabel=000" alt="Streak Stats" width="48%"/>
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixmed&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" alt="Top Languages" width="40%"/>
 
 </div>
@@ -68,4 +65,4 @@
 
 ---
 
-<p align="center"><i>"Building AI systems that solve real problems."</i></p>
+<p align="center"><i>"naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah"</i></p>
