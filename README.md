@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-mohamed-abdulrahman1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ahmedmohamed.1abdulrahman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Cairo%2C_Egypt-222222?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Cairo, Egypt">
+  <img src="https://img.shields.io/badge/Cairo_Egypt-222222?style=for-the-badge" alt="Cairo, Egypt">
 </p>
 
 ---
@@ -62,8 +62,8 @@
   <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" alt="RAG">
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP">
   <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector">
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI">
-  <img src="https://img.shields.io/badge/Zoho-E42527?style=flat-square&logo=zoho&logoColor=white" alt="Zoho">
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square" alt="Azure OpenAI">
+  <img src="https://img.shields.io/badge/Zoho-E42527?style=flat-square" alt="Zoho">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
   <img src="https://img.shields.io/badge/TestNG-FF7F00?style=flat-square" alt="TestNG">
