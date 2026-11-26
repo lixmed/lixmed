@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahmed 👋</h1>
+<h1 align="center">Ahmed</h1>
 
 <p align="center">
   <a href="https://github.com/lixmed">
@@ -27,17 +27,6 @@
 
 ---
 
-### 🛠️ What I build
-
-| | |
-|---|---|
-| 🤖 **AI agents & LLM apps** | RAG chatbots, agentic pipelines, MCP tools, Arabic/English assistants with LangChain, LangGraph, pgvector, Azure OpenAI, Groq |
-| 🌐 **Full-stack apps** | FastAPI / Flask / Node.js backends, HTML/CSS/JavaScript and Streamlit frontends, customer portals, PDF generation, SSE streaming |
-| 🔗 **Automation & integrations** | Zoho CRM & Creator apps, Deluge, widgets, Client Scripts, REST APIs, OAuth 2.0, webhooks, custom connections |
-| ✅ **Test automation & CI** | Selenium + TestNG (Page Object Model), pytest end-to-end and security tests, Postman, GitHub Actions, GitLab CI/CD |
-| 📊 **Data & ML** | Scrapers and ingestion pipelines, data validation, XGBoost, PyTorch, model validation and backtesting |
-
----
 
 ### 🚀 Featured projects
 
