@@ -27,28 +27,6 @@
 
 ---
 
-
-### 🚀 Featured projects
-
-| Project | What it is |
-|---|---|
-| **[Zoho Implementer Copilot](https://github.com/lixmed/zoho-implementer-copilot)** 🛠️ *in progress* | Local AI copilot for Zoho partners: turns client requirements into CRM implementation plans with a human approving every step. OAuth 2.0 + PKCE across all Zoho data centres, secrets in the OS keychain, read-only MCP tools, and a pytest suite with end-to-end and security tests in CI |
-| **[AIAdvisor](https://github.com/lixmed/AIAdvisor)** 📈 | Arabic-first financial assistant (DEPI graduation project): live gold, currency and news ingestion, RAG on PostgreSQL + pgvector, and an XGBoost stock model with walk-forward validation (backtest Sharpe ~1.46 vs ~1.20 for SPY) |
-| **[Visa Assistant](https://github.com/lixmed/VisaAsistant)** 🛂 | Bilingual AI agent that interviews you, scrapes official European visa sources in real time, and streams a personalized application plan (FastAPI, SSE, pgvector, Docker) |
-| **[UniMate](https://github.com/lixmed/unimate-api)** 🏠 | Student-to-flat compatibility engine (university graduation project): XGBoost model with 97.29% holdout accuracy (ROC-AUC 0.998), FastAPI API [deployed on Hugging Face](https://huggingface.co/spaces/lixmed/unimate-ai), full training and evaluation pipeline |
-
-### 🧪 More projects
-
-| Project | What it is |
-|---|---|
-| **[Advanced RAG System](https://github.com/lixmed/advanced-rag-system)** 📚 | RAG over a deep learning textbook: section-aware chunking, hybrid vector + keyword search, query expansion, cross-encoder reranking, FastAPI |
-| **[News Search Engine](https://github.com/lixmed/news-search-engine)** 🔎 | Search engine from scratch: multithreaded news crawler, inverted index, PageRank, Flask API and Streamlit UI |
-| **[VJudge UI Tests](https://github.com/lixmed/vjudge-selenium-testng)** ✅ | Selenium WebDriver + TestNG suite in Java with the Page Object Model and explicit waits |
-| **[Pinterest UI Tests](https://github.com/lixmed/pinterest-selenium-testng)** ✅ | Team Selenium + TestNG suite: login, search, infinite scroll, hover, navigation, logout |
-| **[Retail Analytics Dashboard](https://github.com/lixmed/retail-analytics-dashboard)** 📊 | Interactive sales analytics dashboard with Dash and Plotly |
-
----
-
 ### 🧰 Tech stack
 
 <p align="center">
